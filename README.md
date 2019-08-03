@@ -1,9 +1,11 @@
 # SlideCutListView
+
 🌈 自定义控件ListView侧滑删除Item-夏安明博客
 
 # 核心类：
 
-<pre><code>package qiqi.love.you;
+```java
+package qiqi.love.you;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -280,4 +282,4 @@ public class SildeCutListView extends ListView {
         public void removeItem(RemoveDirection direction, int position);
     }
 }
-</code></pre>
+```
