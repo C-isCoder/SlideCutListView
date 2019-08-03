@@ -1,6 +1,8 @@
 # SlideCutListView
-自定义控件ListView侧滑删除Item-夏安明博客
-#核心类：
+🌈 自定义控件ListView侧滑删除Item-夏安明博客
+
+# 核心类：
+
 <pre><code>package qiqi.love.you;
 
 import android.content.Context;
